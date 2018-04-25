@@ -1,1 +1,1 @@
-A Neural Net trained with the MNISt dataset, to analyze a number
+A Neural Net trained with the MNIST dataset, to analyze a number
